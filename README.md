@@ -1,22 +1,21 @@
 # 🚀 Sujal Kumar's Tech Odyssey
 
-![Ethical Hacking Banner](https://media.giphy.com/media/4Zo41lhzKt6iZ8xF6u/giphy.gif)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71A&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Innovator)](https://git.io/typing-svg)
 
 </div>
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sujalkumar/sujalkumar/main/assets/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdyZ2IydXpndm9ibG03Nm8wYWliMG95emx4eWphN3dzbzM5eWJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 20px;">
+
 
 **Hello World! I'm Sujal Kumar** 👋, a passionate **Full Stack Developer** with a deep fascination for **AI**, **Machine Learning**, and **Web Development**. I'm dedicated to leveraging technology to create innovative solutions and contribute to a safer digital world.
 
 ### 🎓 Quick Facts
 
-- 🌍 Based in **Jammu and Kashmir, India**
+- 🌍 Based in **jharkhand, India**
 - 🎓 Pursuing an advanced degree in **Computer Science**
 - 💼 Open to exciting collaborations and opportunities
 - 🌱 Lifelong learner, always exploring new technologies
