@@ -8,10 +8,26 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdyZ2IydXpndm9ibG03Nm8wYWliMG95emx4eWphN3dzbzM5eWJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 20px;">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdyZ2IydXpndm9ibG03Nm8wYWliMG95emx4eWphN3dzbzM5eWJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 18px;">
+
+I’m <strong>Sujal Kumar</strong>, a passionate <strong>Full Stack Developer</strong> with expertise in <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Cybersecurity</strong>, and <strong>Web Development</strong>. I build full-stack apps using <strong>React</strong>, <strong>Node.js</strong>, <strong>Django</strong>, and work extensively with <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and cloud tools like <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong>. I actively contribute to <strong>open-source</strong>, mentor others, and participate in <strong>hackathons</strong> and <strong>tech communities</strong>. My mission is to use <strong>technology for good</strong> — from automating systems to building secure, scalable platforms. I'm a <strong>lifelong learner</strong> and believe in the power of <strong>consistency</strong>, <strong>collaboration</strong>, and <strong>purpose-driven innovation</strong>. Let’s connect and build something meaningful together.
+
+</div>
 
 
-**Hello World! I'm Sujal Kumar** 👋, a passionate **Full Stack Developer** with a deep fascination for **AI**, **Machine Learning**, and **Web Development**. I'm dedicated to leveraging technology to create innovative solutions and contribute to a safer digital world.
+
+
+---
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujalpip&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalpip&layout=compact&theme=vision-friendly-dark&hide_border=true" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalpip&theme=radical&hide_border=true" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalpip&theme=radical" />
+
+</div>
 
 ### 🎓 Quick Facts
 
@@ -119,33 +135,22 @@ An innovative platform promoting sustainable technology:
 
 --- 
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalkumar&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujalkumar&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
---- 
-
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sujalkumar&theme=darkhub&no-frame=true&row=1&column=7)
+  <img src="https://img.shields.io/badge/Top%20Innovator-Global%20AI%20Conference%202023-%23FF5733?style=for-the-badge&logo=medal&logoColor=white" />
+  <img src="https://img.shields.io/badge/1st%20Place-Cybersecurity%20Hackathon%202023-%233498DB?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Featured%20Developer-GitHub%20Spotlight-%239C27B0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Author-AI%20Driven%20Cybersecurity%20Book-%23E91E63?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Guest%20Lecturer-Stanford%20University-%234CAF50?style=for-the-badge&logo=google-scholar&logoColor=white" />
 
 </div>
 
-- 🥇 **Top Innovator** award at the Global AI Conference 2023
-- 🏆 **First Place** in the International Cybersecurity Hackathon 2023
-- 🌟 **Featured Developer** on GitHub's Open Source Spotlight
-- 📚 **Published Author** of "AI-Driven Cybersecurity: The Future of Digital Defense"
-- 🎓 **Guest Lecturer** on Advanced Machine Learning at Stanford University
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=22&fontColor=ffffff&color=0f2027,203a43,2c5364" />
+</p>
 
 ---
 
